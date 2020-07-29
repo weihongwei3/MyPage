@@ -238,10 +238,6 @@
 	left: 5%;
 	top: 5%;
 	opacity: 0;
-	animation:ly-stxt01_move 15s;
-	animation-delay:1s;
-	-webkit-animation:ly-stxt01_move 15s;
-	-webkit-animation-delay:1s;
 }
 @keyframes ly-stxt01_move{
 	0% {opacity:0;}
@@ -267,10 +263,6 @@
 	top: 5%;
 	margin-top:-71px;
 	opacity: 0;
-	animation:ly-stxt02_move 15s;
-	animation-delay:1s;
-	-webkit-animation:ly-stxt02_move 15s;
-	-webkit-animation-delay:1s;
 }
 @keyframes ly-stxt02_move{
 	0% {opacity:0;margin-top:-71px;}
@@ -1470,7 +1462,7 @@
 	top: 10%;
 	left: 23%;
 	width: 70%;
-	height: 50%;
+	height: 45%;
 	border-radius: 8px;
 	opacity:0;
 	overflow: hidden;
