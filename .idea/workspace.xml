@@ -2,9 +2,53 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1343a07c-9663-497e-a6c5-1a4c0b880503" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CNAME" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dai/CNAME" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/dai/.idea/dai.iml" afterPath="$PROJECT_DIR$/daidai/.idea/dai.iml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/dai/.idea/modules.xml" afterPath="$PROJECT_DIR$/daidai/.idea/modules.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/dai/.idea/workspace.xml" afterPath="$PROJECT_DIR$/daidai/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/dai/css/birthday-cake.css" afterPath="$PROJECT_DIR$/daidai/css/birthday-cake.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/dai/css/bubbles.css" afterPath="$PROJECT_DIR$/daidai/css/bubbles.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/dai/css/index.css" afterPath="$PROJECT_DIR$/daidai/css/index.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/dai/css/jquery.fullPage.css" afterPath="$PROJECT_DIR$/daidai/css/jquery.fullPage.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/dai/css/login.css" afterPath="$PROJECT_DIR$/daidai/css/login.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/dai/css/memories.css" afterPath="$PROJECT_DIR$/daidai/css/memories.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/dai/html/BirthdayCake.html" afterPath="$PROJECT_DIR$/daidai/html/BirthdayCake.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/dai/html/Memories.html" afterPath="$PROJECT_DIR$/daidai/html/Memories.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/dai/html/login.html" afterPath="$PROJECT_DIR$/daidai/html/login.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/dai/img/HappyBirthday.png" afterPath="$PROJECT_DIR$/daidai/img/HappyBirthday.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/dai/img/first_apointment1.JPG" afterPath="$PROJECT_DIR$/daidai/img/first_apointment1.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/dai/img/first_apointment2.JPG" afterPath="$PROJECT_DIR$/daidai/img/first_apointment2.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/dai/img/first_chat.JPG" afterPath="$PROJECT_DIR$/daidai/img/first_chat.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/dai/img/first_joke.JPG" afterPath="$PROJECT_DIR$/daidai/img/first_joke.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/dai/img/first_wechat.JPG" afterPath="$PROJECT_DIR$/daidai/img/first_wechat.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/dai/img/moon/moon1.JPG" afterPath="$PROJECT_DIR$/daidai/img/moon/moon1.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/dai/img/moon/moon2.JPG" afterPath="$PROJECT_DIR$/daidai/img/moon/moon2.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/dai/img/moon/moon3.JPG" afterPath="$PROJECT_DIR$/daidai/img/moon/moon3.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/dai/img/moon/moon4.JPG" afterPath="$PROJECT_DIR$/daidai/img/moon/moon4.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/dai/img/moon/moon5.JPG" afterPath="$PROJECT_DIR$/daidai/img/moon/moon5.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/dai/img/moon/moon6.JPG" afterPath="$PROJECT_DIR$/daidai/img/moon/moon6.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/dai/img/moon/moon7.JPG" afterPath="$PROJECT_DIR$/daidai/img/moon/moon7.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/dai/img/qingdao/jianmian.JPG" afterPath="$PROJECT_DIR$/daidai/img/qingdao/jianmian.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/dai/img/qingdao/sea1.JPG" afterPath="$PROJECT_DIR$/daidai/img/qingdao/sea1.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/dai/img/qingdao/sea2.JPG" afterPath="$PROJECT_DIR$/daidai/img/qingdao/sea2.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/dai/img/qingdao/sea4.JPG" afterPath="$PROJECT_DIR$/daidai/img/qingdao/sea4.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/dai/img/qingdao/yueding.JPG" afterPath="$PROJECT_DIR$/daidai/img/qingdao/yueding.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/dai/img/strange_name.JPG" afterPath="$PROJECT_DIR$/daidai/img/strange_name.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/dai/img/talkTOdog.jpg" afterPath="$PROJECT_DIR$/daidai/img/talkTOdog.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/dai/img/tianyousang.JPG" afterPath="$PROJECT_DIR$/daidai/img/tianyousang.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/dai/index.html" afterPath="$PROJECT_DIR$/daidai/happy birthday.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/dai/js/auto-play.js" afterPath="$PROJECT_DIR$/daidai/js/auto-play.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/dai/js/birthday-cake.js" afterPath="$PROJECT_DIR$/daidai/js/birthday-cake.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/dai/js/index.js" afterPath="$PROJECT_DIR$/daidai/js/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/dai/js/jquery-2.1.1.min.js" afterPath="$PROJECT_DIR$/daidai/js/jquery-2.1.1.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/dai/js/jquery.fullPage.js" afterPath="$PROJECT_DIR$/daidai/js/jquery.fullPage.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/dai/js/jquery.fullPage.min.js" afterPath="$PROJECT_DIR$/daidai/js/jquery.fullPage.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/dai/js/jquery.js" afterPath="$PROJECT_DIR$/daidai/js/jquery.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/dai/js/login.js" afterPath="$PROJECT_DIR$/daidai/js/login.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/dai/js/memories.js" afterPath="$PROJECT_DIR$/daidai/js/memories.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/dai/music/1.mp3" afterPath="$PROJECT_DIR$/daidai/music/1.mp3" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/dai/music/2.mp3" afterPath="$PROJECT_DIR$/daidai/music/2.mp3" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/dai/music/sea.flac" afterPath="$PROJECT_DIR$/daidai/music/sea.flac" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -201,7 +245,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="dai" />
+              <option name="myItemId" value="daidai" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -482,7 +526,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595994831999</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="delete domain name in dai AND add domain name in page">
+      <created>1595995018328</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1595995018328</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -535,7 +586,8 @@
     <MESSAGE value="add domain name" />
     <MESSAGE value="delete domain name" />
     <MESSAGE value="add domain name in dai" />
-    <option name="LAST_COMMIT_MESSAGE" value="add domain name in dai" />
+    <MESSAGE value="delete domain name in dai AND add domain name in page" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete domain name in dai AND add domain name in page" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
