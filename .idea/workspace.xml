@@ -5,7 +5,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/daidai/css/memories.css" afterPath="$PROJECT_DIR$/daidai/css/memories.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/daidai/html/Memories.html" afterPath="$PROJECT_DIR$/daidai/html/Memories.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/daidai/js/login.js" afterPath="$PROJECT_DIR$/daidai/js/login.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,24 +29,24 @@
       <file leaf-file-name="Memories.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/daidai/html/Memories.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="418" column="14" lean-forward="false" selection-start-line="418" selection-start-column="14" selection-end-line="418" selection-end-column="14" />
+            <state relative-caret-position="-576">
+              <caret line="366" column="0" lean-forward="true" selection-start-line="366" selection-start-column="0" selection-end-line="366" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="memories.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="memories.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/daidai/css/memories.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="1684" column="14" lean-forward="false" selection-start-line="1684" selection-start-column="14" selection-end-line="1684" selection-end-column="14" />
+            <state relative-caret-position="332">
+              <caret line="1687" column="27" lean-forward="true" selection-start-line="1687" selection-start-column="27" selection-end-line="1687" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="login.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="login.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/daidai/js/login.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="513">
@@ -122,9 +121,15 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>vendor</find>
-      <find>box22</find>
       <find>txt90</find>
+      <find>box01</find>
+      <find>txt12</find>
+      <find>box31</find>
+      <find>box22</find>
+      <find>txt22</find>
+      <find>txt23</find>
       <find>box21</find>
+      <find>box71</find>
     </findStrings>
     <dirStrings>
       <dir>F:\Workspaces\pycharm\weihongwei3.github.io</dir>
@@ -593,7 +598,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596001433069</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="mobile device UI">
+      <created>1596002274774</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1596002274774</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -606,7 +618,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12660256" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12660256" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -1097,26 +1109,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/daidai/css/memories.css">
+    <entry file="file://$PROJECT_DIR$/daidai/js/login.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="1684" column="14" lean-forward="false" selection-start-line="1684" selection-start-column="14" selection-end-line="1684" selection-end-column="14" />
+        <state relative-caret-position="513">
+          <caret line="19" column="26" lean-forward="false" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/daidai/html/Memories.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="418" column="14" lean-forward="false" selection-start-line="418" selection-start-column="14" selection-end-line="418" selection-end-column="14" />
+        <state relative-caret-position="-576">
+          <caret line="366" column="0" lean-forward="true" selection-start-line="366" selection-start-column="0" selection-end-line="366" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/daidai/js/login.js">
+    <entry file="file://$PROJECT_DIR$/daidai/css/memories.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="19" column="26" lean-forward="false" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+        <state relative-caret-position="332">
+          <caret line="1687" column="27" lean-forward="true" selection-start-line="1687" selection-start-column="27" selection-end-line="1687" selection-end-column="27" />
           <folding />
         </state>
       </provider>
