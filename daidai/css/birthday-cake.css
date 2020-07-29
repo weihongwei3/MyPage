@@ -243,7 +243,7 @@ body {
 	}
 	100% {
 		opacity:1;
-		left:20%;
+		left:8%;
 	}
 }
 @-webkit-keyframes btn1 {
@@ -257,7 +257,7 @@ body {
 	}
 	100% {
 		opacity:1;
-		left:20%;
+		left:8%;
 	}
 }
 @keyframes btn2 {
@@ -271,7 +271,7 @@ body {
 	}
 	100% {
 		opacity:1;
-		left:68%;
+		left:55%;
 	}
 }
 @-webkit-keyframes btn2 {
@@ -285,7 +285,7 @@ body {
 	}
 	100% {
 		opacity:1;
-		left:68%;
+		left:55%;
 	}
 }
 .lk1,.lk2 {

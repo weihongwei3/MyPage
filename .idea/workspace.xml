@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1343a07c-9663-497e-a6c5-1a4c0b880503" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/daidai/css/birthday-cake.css" afterPath="$PROJECT_DIR$/daidai/css/birthday-cake.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/daidai/css/memories.css" afterPath="$PROJECT_DIR$/daidai/css/memories.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/daidai/html/Memories.html" afterPath="$PROJECT_DIR$/daidai/html/Memories.html" />
     </list>
@@ -26,11 +27,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Memories.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Memories.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/daidai/html/Memories.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="423" column="29" lean-forward="true" selection-start-line="423" selection-start-column="29" selection-end-line="423" selection-end-column="29" />
+            <state relative-caret-position="315">
+              <caret line="426" column="22" lean-forward="true" selection-start-line="426" selection-start-column="22" selection-end-line="426" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -39,8 +40,8 @@
       <file leaf-file-name="memories.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/daidai/css/memories.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="1685" column="14" lean-forward="false" selection-start-line="1685" selection-start-column="14" selection-end-line="1685" selection-end-column="14" />
+            <state relative-caret-position="440">
+              <caret line="1691" column="14" lean-forward="true" selection-start-line="1691" selection-start-column="14" selection-end-line="1691" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -106,11 +107,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="birthday-cake.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="birthday-cake.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/daidai/css/birthday-cake.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-756">
-              <caret line="71" column="0" lean-forward="true" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+            <state relative-caret-position="388">
+              <caret line="266" column="5" lean-forward="true" selection-start-line="266" selection-start-column="5" selection-end-line="266" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -121,17 +122,17 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>vendor</find>
-      <find>txt90</find>
       <find>txt12</find>
       <find>box31</find>
       <find>box22</find>
       <find>txt22</find>
-      <find>txt23</find>
       <find>box21</find>
-      <find>box01</find>
       <find>box52</find>
-      <find>box71</find>
+      <find>box01</find>
+      <find>txt23</find>
+      <find>txt90</find>
       <find>box81</find>
+      <find>box71</find>
     </findStrings>
     <dirStrings>
       <dir>F:\Workspaces\pycharm\weihongwei3.github.io</dir>
@@ -156,10 +157,10 @@
         <option value="$PROJECT_DIR$/resume.html" />
         <option value="$PROJECT_DIR$/dai/CNAME" />
         <option value="$PROJECT_DIR$/CNAME" />
-        <option value="$PROJECT_DIR$/daidai/css/birthday-cake.css" />
         <option value="$PROJECT_DIR$/daidai/js/login.js" />
         <option value="$PROJECT_DIR$/daidai/html/Memories.html" />
         <option value="$PROJECT_DIR$/daidai/css/memories.css" />
+        <option value="$PROJECT_DIR$/daidai/css/birthday-cake.css" />
       </list>
     </option>
   </component>
@@ -614,7 +615,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596003094837</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="mobile device UI">
+      <created>1596004101977</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1596004101977</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1118,26 +1126,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/daidai/css/birthday-cake.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-756">
-          <caret line="71" column="0" lean-forward="true" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/daidai/css/memories.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="1685" column="14" lean-forward="false" selection-start-line="1685" selection-start-column="14" selection-end-line="1685" selection-end-column="14" />
+        <state relative-caret-position="440">
+          <caret line="1691" column="14" lean-forward="true" selection-start-line="1691" selection-start-column="14" selection-end-line="1691" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/daidai/html/Memories.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="423" column="29" lean-forward="true" selection-start-line="423" selection-start-column="29" selection-end-line="423" selection-end-column="29" />
+        <state relative-caret-position="315">
+          <caret line="426" column="22" lean-forward="true" selection-start-line="426" selection-start-column="22" selection-end-line="426" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daidai/css/birthday-cake.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="266" column="5" lean-forward="true" selection-start-line="266" selection-start-column="5" selection-end-line="266" selection-end-column="5" />
           <folding />
         </state>
       </provider>

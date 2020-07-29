@@ -20,7 +20,7 @@
 /*盒子*/
 .ly-box01 {
 	width:70%;
-	height:70%;
+	height:50%;
 	background-color:#FFF;
 	border-radius: 25px;
 	position: absolute;
@@ -926,7 +926,7 @@
 	font-color: #000;
 	position: absolute;
 	left: 3%;
-	top: 2%;
+	top: 10%;
 	opacity: 0;
 	transition: all 0.5s;
 }
@@ -1683,7 +1683,7 @@
 
 .ly-box81 {
 	width: 70%;
-	height: 45%;
+	height: 40%;
 	border: 2px #CCC;
 	background-color: #fff;
 	background-color: rgba(255,255,255,0.6);
@@ -1816,7 +1816,7 @@
 	font-color: white;
 	position: absolute;
 	width:80%;
-	top:15%;
+	top:20%;
 	margin-left:20%;
 	opacity: 0;
 	transition: all 0.5s;
