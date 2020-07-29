@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1343a07c-9663-497e-a6c5-1a4c0b880503" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/daidai/css/memories.css" afterPath="$PROJECT_DIR$/daidai/css/memories.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/daidai/html/Memories.html" afterPath="$PROJECT_DIR$/daidai/html/Memories.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,11 +15,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Memories.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Memories.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/daidai/html/Memories.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4902">
-              <caret line="524" column="43" lean-forward="true" selection-start-line="524" selection-start-column="43" selection-end-line="524" selection-end-column="43" />
+            <state relative-caret-position="342">
+              <caret line="246" column="19" lean-forward="true" selection-start-line="246" selection-start-column="19" selection-end-line="246" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -35,11 +35,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="memories.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="memories.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/daidai/css/memories.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159">
-              <caret line="476" column="38" lean-forward="true" selection-start-line="476" selection-start-column="38" selection-end-line="476" selection-end-column="38" />
+            <state relative-caret-position="386">
+              <caret line="1817" column="12" lean-forward="true" selection-start-line="1817" selection-start-column="12" selection-end-line="1817" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -130,11 +130,11 @@
       <find>box52</find>
       <find>txt23</find>
       <find>txt22</find>
-      <find>txt12</find>
       <find>txt2</find>
+      <find>txt12</find>
       <find>txt32</find>
-      <find>txt90</find>
       <find>box71</find>
+      <find>txt90</find>
       <find>white</find>
     </findStrings>
     <dirStrings>
@@ -163,8 +163,8 @@
         <option value="$PROJECT_DIR$/daidai/js/login.js" />
         <option value="$PROJECT_DIR$/daidai/css/birthday-cake.css" />
         <option value="$PROJECT_DIR$/daidai/html/BirthdayCake.html" />
-        <option value="$PROJECT_DIR$/daidai/html/Memories.html" />
         <option value="$PROJECT_DIR$/daidai/css/memories.css" />
+        <option value="$PROJECT_DIR$/daidai/html/Memories.html" />
       </list>
     </option>
   </component>
@@ -738,7 +738,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596018589128</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="mobile device UI">
+      <created>1596021665011</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1596021665011</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1251,18 +1258,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/daidai/html/Memories.html">
+    <entry file="file://$PROJECT_DIR$/daidai/css/memories.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4902">
-          <caret line="524" column="43" lean-forward="true" selection-start-line="524" selection-start-column="43" selection-end-line="524" selection-end-column="43" />
+        <state relative-caret-position="386">
+          <caret line="1817" column="12" lean-forward="true" selection-start-line="1817" selection-start-column="12" selection-end-line="1817" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/daidai/css/memories.css">
+    <entry file="file://$PROJECT_DIR$/daidai/html/Memories.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="476" column="38" lean-forward="true" selection-start-line="476" selection-start-column="38" selection-end-line="476" selection-end-column="38" />
+        <state relative-caret-position="342">
+          <caret line="246" column="19" lean-forward="true" selection-start-line="246" selection-start-column="19" selection-end-line="246" selection-end-column="19" />
           <folding />
         </state>
       </provider>
