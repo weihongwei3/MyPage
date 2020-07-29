@@ -45,8 +45,8 @@
 /**                                   第一部分                                  **/
 /*盒子*/
 .ly-box01 {
-	width:70%;
-	height:50%;
+	width:75%;
+	height:40%;
 	background-color:#FFF;
 	border-radius: 25px;
 	position: absolute;
@@ -237,7 +237,7 @@
 	position: relative;
 	left: 5%;
 	top: 5%;
-	opacity: 0;
+	opacity: 1;
 }
 @keyframes ly-stxt01_move{
 	0% {opacity:0;}
@@ -262,7 +262,7 @@
 	left: 5%;
 	top: 5%;
 	margin-top:-71px;
-	opacity: 0;
+	opacity: 1;
 }
 @keyframes ly-stxt02_move{
 	0% {opacity:0;margin-top:-71px;}
