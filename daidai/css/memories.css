@@ -643,7 +643,7 @@
 	font-family: Microsoft YaHei;
 	font-size: 16px;
 	text-indent:0em;
-	color: white;
+	color: grey;
 	position: absolute;
 	padding-top: 20px;
 	left: 3%;
@@ -922,7 +922,7 @@
 	font-family: Microsoft YaHei;
 	font-size: 12px;
 	text-shadow: 1px;
-	color: white;
+	color: grey;
 	position: absolute;
 	left: 3%;
 	top: 15%;
@@ -1174,7 +1174,7 @@
 	font-family: Microsoft YaHei;
 	font-size: 20px;
 	text-shadow: 1px;
-	color: white;
+	color: grey;
 	position: absolute;
 	left: 3%;
 	top: 4%;
@@ -1192,7 +1192,7 @@
 	font-family: Microsoft YaHei;
 	font-size: 16px;
 	text-indent:2em;
-	color: white;
+	color: grey;
 	position: absolute;
 	padding-top: 20px;
 	left: 3%;
@@ -1812,7 +1812,7 @@
 .ly-txt90 {
 	font-family: Microsoft YaHei;
 	font-size: 16px;
-	color: white;
+	color: grey;
 	position: absolute;
 	width:80%;
 	top:20%;

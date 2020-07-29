@@ -4,7 +4,6 @@
     <list default="true" id="1343a07c-9663-497e-a6c5-1a4c0b880503" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/daidai/css/memories.css" afterPath="$PROJECT_DIR$/daidai/css/memories.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/daidai/html/Memories.html" afterPath="$PROJECT_DIR$/daidai/html/Memories.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,7 +18,7 @@
       <file leaf-file-name="Memories.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/daidai/html/Memories.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2472">
+            <state relative-caret-position="4902">
               <caret line="524" column="43" lean-forward="true" selection-start-line="524" selection-start-column="43" selection-end-line="524" selection-end-column="43" />
               <folding />
             </state>
@@ -39,8 +38,8 @@
       <file leaf-file-name="memories.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/daidai/css/memories.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="860" column="23" lean-forward="true" selection-start-line="860" selection-start-column="23" selection-end-line="860" selection-end-column="23" />
+            <state relative-caret-position="159">
+              <caret line="476" column="38" lean-forward="true" selection-start-line="476" selection-start-column="38" selection-end-line="476" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -136,6 +135,7 @@
       <find>txt32</find>
       <find>txt90</find>
       <find>box71</find>
+      <find>white</find>
     </findStrings>
     <dirStrings>
       <dir>F:\Workspaces\pycharm\weihongwei3.github.io</dir>
@@ -731,7 +731,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596017916845</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="mobile device UI">
+      <created>1596018589128</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1596018589128</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1246,7 +1253,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/daidai/html/Memories.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2472">
+        <state relative-caret-position="4902">
           <caret line="524" column="43" lean-forward="true" selection-start-line="524" selection-start-column="43" selection-end-line="524" selection-end-column="43" />
           <folding />
         </state>
@@ -1254,8 +1261,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/daidai/css/memories.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="860" column="23" lean-forward="true" selection-start-line="860" selection-start-column="23" selection-end-line="860" selection-end-column="23" />
+        <state relative-caret-position="159">
+          <caret line="476" column="38" lean-forward="true" selection-start-line="476" selection-start-column="38" selection-end-line="476" selection-end-column="38" />
           <folding />
         </state>
       </provider>
