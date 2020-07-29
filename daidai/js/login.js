@@ -12,7 +12,7 @@ $('#login-button').click(function (event) {
 			},2000);
 		}
 	else{
-		alert("爱的密码错误");
+		alert("爱的密码错误了嗷");
 	}
 });
 

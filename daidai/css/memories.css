@@ -19,8 +19,8 @@
 /**                                   第一部分                                  **/
 /*盒子*/
 .ly-box01 {
-	width:50px;
-	height:50px;
+	width:70%;
+	height:80%;
 	background-color:#FFF;
 	border-radius: 25px;
 	position: absolute;
@@ -856,7 +856,7 @@
 
 .ly-txt22 {
 	font-family: Microsoft YaHei;
-	font-size: 10px;
+	font-size: 16px;
 	text-indent:2em;
 	font-color: #000;
 	position: absolute;
@@ -874,7 +874,7 @@
 /* 盒子 */
 .ly-box22 {
 	width: 70%;
-	height: 30%;
+	height: 40%;
 	border: 2px #CCC;
 	background-color: #fff;
 	background-color: rgba(255,255,255,0.6);
@@ -1191,7 +1191,7 @@
 
 .ly-txt32 {
 	font-family: Microsoft YaHei;
-	font-size: 10px;
+	font-size: 16px;
 	text-indent:2em;
 	font-color: #000;
 	position: absolute;
@@ -1353,7 +1353,7 @@
 }
 .ly-box52 {
 	width: 70%;
-	height: 30%;
+	height: 40%;
 	border: 2px #CCC;
 	background-color: #fff;
 	background-color: rgba(255,255,255,0.6);
@@ -1682,7 +1682,7 @@
 
 .ly-box81 {
 	width: 70%;
-	height: 80%;
+	height: 70%;
 	border: 2px #CCC;
 	background-color: #fff;
 	background-color: rgba(255,255,255,0.6);
@@ -1811,7 +1811,7 @@
 }
 .ly-txt90 {
 	font-family: Microsoft YaHei;
-	font-size: 10px;
+	font-size: 16px;
 	font-color: white;
 	position: absolute;
 	width:80%;
