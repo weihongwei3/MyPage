@@ -207,7 +207,7 @@
 }
 .ly-stxt01 {
 	font-family: Microsoft YaHei;
-	font-size: 22px;
+	font-size: 10px;
 	font-color: #000;
 	position: relative;
 	left: 5%;
@@ -235,7 +235,7 @@
 
 .ly-stxt02 {
 	font-family: Microsoft YaHei;
-	font-size: 20px;
+	font-size: 8px;
 	font-color: #000;
 	position: relative;
 	left: 5%;
@@ -556,8 +556,8 @@
 
 /* 盒子 */
 .ly-box11 {
-	width: 80%;
-	height: 600px;
+	width: 70%;
+	height: 60%;
 	border: 2px #CCC;
 	background-color: #fff;
 	background-color: rgba(255,255,255,0.6);
@@ -624,7 +624,7 @@
 /*文本*/
 .ly-txt11 {
 	font-family: Microsoft YaHei;
-	font-size: 30px;
+	font-size: 20px;
 	text-shadow: 1px;
 	font-color: #000;
 	position: absolute;
@@ -642,7 +642,7 @@
 
 .ly-txt12 {
 	font-family: Microsoft YaHei;
-	font-size: 20px;
+	font-size: 10px;
 	text-indent:2em;
 	font-color: #000;
 	position: absolute;
@@ -771,7 +771,7 @@
 /* 盒子 */
 .ly-box21 {
 	width: 70%;
-	height: 80%;
+	height: 60%;
 	border: 2px #CCC;
 	background-color: #fff;
 	background-color: rgba(255,255,255,0.6);
@@ -873,15 +873,15 @@
 
 /* 盒子 */
 .ly-box22 {
-	width: 30%;
-	height: 80%;
+	width: 70%;
+	height: 30%;
 	border: 2px #CCC;
 	background-color: #fff;
 	background-color: rgba(255,255,255,0.6);
 	border-radius: 8px;
 	position: absolute;
-	left: 60%;
-	top:10%;
+	left: 23%;
+	top:50%;
 	overflow: hidden;
 	opacity: 0;
 	-webkit-transform: scale(0.5, 0.5);
@@ -1173,7 +1173,7 @@
 /*文本*/
 .ly-txt31 {
 	font-family: Microsoft YaHei;
-	font-size: 30px;
+	font-size: 20px;
 	text-shadow: 1px;
 	font-color: #000;
 	position: absolute;
@@ -1191,7 +1191,7 @@
 
 .ly-txt32 {
 	font-family: Microsoft YaHei;
-	font-size: 20px;
+	font-size: 10px;
 	text-indent:2em;
 	font-color: #000;
 	position: absolute;
@@ -1352,8 +1352,8 @@
 	transition-delay: 7.0s;
 }
 .ly-box52 {
-	width: 30%;
-	height: 80%;
+	width: 70%;
+	height: 30%;
 	border: 2px #CCC;
 	background-color: #fff;
 	background-color: rgba(255,255,255,0.6);
@@ -1681,8 +1681,8 @@
 }
 
 .ly-box81 {
-	width: 28%;
-	height: 55%;
+	width: 70%;
+	height: 80%;
 	border: 2px #CCC;
 	background-color: #fff;
 	background-color: rgba(255,255,255,0.6);
@@ -1811,7 +1811,7 @@
 }
 .ly-txt90 {
 	font-family: Microsoft YaHei;
-	font-size: 40px;
+	font-size: 10px;
 	font-color: white;
 	position: absolute;
 	width:80%;

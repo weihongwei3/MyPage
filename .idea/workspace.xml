@@ -6,7 +6,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/daidai/css/birthday-cake.css" afterPath="$PROJECT_DIR$/daidai/css/birthday-cake.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/daidai/css/memories.css" afterPath="$PROJECT_DIR$/daidai/css/memories.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/daidai/html/Memories.html" afterPath="$PROJECT_DIR$/daidai/html/Memories.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/daidai/js/login.js" afterPath="$PROJECT_DIR$/daidai/js/login.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,21 +27,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Memories.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Memories.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/daidai/html/Memories.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="79" column="31" lean-forward="true" selection-start-line="79" selection-start-column="31" selection-end-line="79" selection-end-column="31" />
+            <state relative-caret-position="342">
+              <caret line="424" column="25" lean-forward="false" selection-start-line="424" selection-start-column="25" selection-end-line="424" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="memories.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="memories.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/daidai/css/memories.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="854" column="0" lean-forward="true" selection-start-line="854" selection-start-column="0" selection-end-line="854" selection-end-column="0" />
+            <state relative-caret-position="435">
+              <caret line="1687" column="44" lean-forward="false" selection-start-line="1687" selection-start-column="44" selection-end-line="1687" selection-end-column="44" />
               <folding />
             </state>
           </provider>
@@ -111,8 +110,8 @@
       <file leaf-file-name="birthday-cake.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/daidai/css/birthday-cake.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="230" column="22" lean-forward="true" selection-start-line="230" selection-start-column="22" selection-end-line="230" selection-end-column="22" />
+            <state relative-caret-position="459">
+              <caret line="234" column="17" lean-forward="true" selection-start-line="234" selection-start-column="0" selection-end-line="235" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -123,6 +122,8 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>vendor</find>
+      <find>box22</find>
+      <find>box21</find>
     </findStrings>
     <dirStrings>
       <dir>F:\Workspaces\pycharm\weihongwei3.github.io</dir>
@@ -577,7 +578,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595995310181</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="mobile device UI">
+      <created>1596000063998</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1596000063998</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -632,7 +640,8 @@
     <MESSAGE value="add domain name in dai" />
     <MESSAGE value="delete domain name in dai AND add domain name in page" />
     <MESSAGE value="rename" />
-    <option name="LAST_COMMIT_MESSAGE" value="rename" />
+    <MESSAGE value="mobile device UI" />
+    <option name="LAST_COMMIT_MESSAGE" value="mobile device UI" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -670,7 +679,7 @@
           <folding>
             <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#header#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#6029#6035#0" expanded="true" />
+            <element signature="e#6029#6035#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -701,7 +710,7 @@
             <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#16042#16048#0" expanded="true" />
+            <element signature="e#16042#16048#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -740,7 +749,7 @@
             <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#16042#16048#0" expanded="true" />
+            <element signature="e#16042#16048#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -776,7 +785,7 @@
           <folding>
             <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#header#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#6029#6035#0" expanded="true" />
+            <element signature="e#6029#6035#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -815,7 +824,7 @@
             <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#16042#16048#0" expanded="true" />
+            <element signature="e#16042#16048#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -851,7 +860,7 @@
           <folding>
             <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#header#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#6029#6035#0" expanded="true" />
+            <element signature="e#6029#6035#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -890,7 +899,7 @@
             <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#16042#16048#0" expanded="true" />
+            <element signature="e#16042#16048#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -910,7 +919,7 @@
           <folding>
             <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#header#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#6029#6035#0" expanded="true" />
+            <element signature="e#6029#6035#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -996,7 +1005,7 @@
           <folding>
             <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#header#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#6029#6035#0" expanded="true" />
+            <element signature="e#6029#6035#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1011,7 +1020,7 @@
             <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#16042#16048#0" expanded="true" />
+            <element signature="e#16042#16048#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1082,24 +1091,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/daidai/css/birthday-cake.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="230" column="22" lean-forward="true" selection-start-line="230" selection-start-column="22" selection-end-line="230" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/daidai/html/Memories.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="79" column="31" lean-forward="true" selection-start-line="79" selection-start-column="31" selection-end-line="79" selection-end-column="31" />
+        <state relative-caret-position="459">
+          <caret line="234" column="17" lean-forward="true" selection-start-line="234" selection-start-column="0" selection-end-line="235" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/daidai/css/memories.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="854" column="0" lean-forward="true" selection-start-line="854" selection-start-column="0" selection-end-line="854" selection-end-column="0" />
+        <state relative-caret-position="435">
+          <caret line="1687" column="44" lean-forward="false" selection-start-line="1687" selection-start-column="44" selection-end-line="1687" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daidai/html/Memories.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="424" column="25" lean-forward="false" selection-start-line="424" selection-start-column="25" selection-end-line="424" selection-end-column="25" />
           <folding />
         </state>
       </provider>
