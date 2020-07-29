@@ -20,7 +20,7 @@
 /*盒子*/
 .ly-box01 {
 	width:70%;
-	height:80%;
+	height:70%;
 	background-color:#FFF;
 	border-radius: 25px;
 	position: absolute;
@@ -1353,14 +1353,14 @@
 }
 .ly-box52 {
 	width: 70%;
-	height: 40%;
+	height: 45%;
 	border: 2px #CCC;
 	background-color: #fff;
 	background-color: rgba(255,255,255,0.6);
 	border-radius: 8px;
 	position: absolute;
 	left: 23%;
-	top:10%;
+	top:8%;
 	overflow: hidden;
 	opacity: 0;
 	-webkit-transform: scale(0.5, 0.5);
@@ -1461,15 +1461,15 @@
 	bottom: 0;
 }
 .ly-box71 {
-	width: 15%;
-	height: 540px;
+	width: 70%;
+	height: 50%;
 	border: 2px #CCC;
 	background-color: #fff;
 	background-color: rgba(255,255,255,0.6);
 	border-radius: 8px;
 	position: absolute;
-	left: 42%;
-	top:17%;
+	left: 23%;
+	top:10%;
 	overflow: hidden;
 	opacity: 0;
 	-webkit-transform: scale(0.5, 0.5);
@@ -1683,7 +1683,7 @@
 
 .ly-box81 {
 	width: 70%;
-	height: 50%;
+	height: 45%;
 	border: 2px #CCC;
 	background-color: #fff;
 	background-color: rgba(255,255,255,0.6);
