@@ -10,7 +10,7 @@
 </head>
 
 <body>
-<audio src="sea.mp3" autoplay="autoplay" loop="loop"></audio>
+<audio preload="auto" id="car_audio" src="sea.mp3" loop="loop"></audio>
 <div class="bgcolor">
   <div style="z-index:100;" id="dowebok">
       <!--第一屏-->
@@ -530,5 +530,33 @@
       <!--<embed src="../music/sea.mp3"></embed>-->
       <!--不支持-->
   <!--</audio>-->
+<script>
+    setTimeout(function(){
+        $(window).scrollTop(1);
+    },0);
+
+    /*音乐*/
+ var audio = $('#car_audio');
+    var isPlaying = false;
+    function playAudio() {
+        var audio = $('#car_audio');
+        if (audio.attr('src') == undefined) {
+            audio.attr('src', audio.data('src'));
+        }
+        audio[0].play();
+        isPlaying = true;
+    }
+    $(function(){
+        playAudio();
+        document.addEventListener("WeixinJSBridgeReady", function () {
+            WeixinJSBridge.invoke('getNetworkType', {}, function (e) {
+                network = e.err_msg.split(":")[1];  //结果在这里
+ playAudio();
+            });
+        }, false);
+    })
+</script>
+</body>
+</html>
 </body>
 </html>
