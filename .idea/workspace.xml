@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1343a07c-9663-497e-a6c5-1a4c0b880503" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CNAME" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CNAME" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dai/CNAME" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,7 +46,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="resume.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="resume.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resume.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="27">
@@ -58,6 +59,16 @@
                 <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="e#16042#16048#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CNAME" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CNAME">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -136,6 +147,7 @@
         <option value="$PROJECT_DIR$/blog.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/resume.html" />
+        <option value="$PROJECT_DIR$/dai/CNAME" />
         <option value="$PROJECT_DIR$/CNAME" />
       </list>
     </option>
@@ -456,7 +468,21 @@
       <option name="project" value="LOCAL" />
       <updated>1595994401817</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="delete domain name">
+      <created>1595994753873</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1595994753873</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add domain name in dai">
+      <created>1595994831999</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1595994831999</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -507,28 +533,15 @@
     <MESSAGE value="Update the master education experience" />
     <MESSAGE value="add dai" />
     <MESSAGE value="add domain name" />
-    <option name="LAST_COMMIT_MESSAGE" value="add domain name" />
+    <MESSAGE value="delete domain name" />
+    <MESSAGE value="add domain name in dai" />
+    <option name="LAST_COMMIT_MESSAGE" value="add domain name in dai" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/resume.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" column="29" lean-forward="false" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-          <folding>
-            <element signature="n#header#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#aside#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#16042#16048#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2943">
@@ -989,6 +1002,14 @@
             <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="e#16042#16048#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dai/CNAME">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
