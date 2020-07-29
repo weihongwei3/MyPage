@@ -24,12 +24,11 @@
 	background-color:#FFF;
 	border-radius: 25px;
 	position: absolute;
-	left: 23%;
-	top: 10%;
+	left: 48%;
+	bottom: 50%;
 	margin-bottom:50%;
 	overflow: hidden;
 	transform-origin:center bottom;
-	animation:box_to_point 18.5s 0s,bounce 2.5s 18.5s;
 }
 
 @keyframes box_to_point{
@@ -557,7 +556,7 @@
 /* 盒子 */
 .ly-box11 {
 	width: 70%;
-	height: 60%;
+	height: 65%;
 	border: 2px #CCC;
 	background-color: #fff;
 	background-color: rgba(255,255,255,0.6);
