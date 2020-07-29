@@ -15,38 +15,12 @@
 }
 
 
-/**更改box01为box02**/
-.ly-box02 {
-	width: 70%;
-	height: 65%;
-	border: 2px #CCC;
-	background-color: #fff;
-	background-color: rgba(255,255,255,0.6);
-	border-radius: 8px;
-	position: absolute;
-	left: 23%;
-	top: 10%;
-	overflow: hidden;
-	opacity: 0;
-	-webkit-transform: scale(0.5, 0.5);
-	transform: scale(0.5, 0.5);
-	transition: all 1s;
-}
-.active .ly-box02{
-	opacity: 0.9;
-	-webkit-transform: scale(1, 1);
-	transform: scale(1, 1);
-	transition-delay: 2.5s;
-}
-
-
-
 /***                                  内容区域                                 ***/
 /**                                   第一部分                                  **/
 /*盒子*/
 .ly-box01 {
-	width:75%;
-	height:40%;
+	width:70%;
+	height:50%;
 	background-color:#FFF;
 	border-radius: 25px;
 	position: absolute;
@@ -237,7 +211,11 @@
 	position: relative;
 	left: 5%;
 	top: 5%;
-	opacity: 1;
+	opacity: 0;
+	animation:ly-stxt01_move 15s;
+	animation-delay:1s;
+	-webkit-animation:ly-stxt01_move 15s;
+	-webkit-animation-delay:1s;
 }
 @keyframes ly-stxt01_move{
 	0% {opacity:0;}
@@ -262,7 +240,11 @@
 	left: 5%;
 	top: 5%;
 	margin-top:-71px;
-	opacity: 1;
+	opacity: 0;
+	animation:ly-stxt02_move 15s;
+	animation-delay:1s;
+	-webkit-animation:ly-stxt02_move 15s;
+	-webkit-animation-delay:1s;
 }
 @keyframes ly-stxt02_move{
 	0% {opacity:0;margin-top:-71px;}
@@ -1462,7 +1444,7 @@
 	top: 10%;
 	left: 23%;
 	width: 70%;
-	height: 45%;
+	height: 40%;
 	border-radius: 8px;
 	opacity:0;
 	overflow: hidden;
