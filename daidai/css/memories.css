@@ -556,7 +556,7 @@
 
 /* 盒子 */
 .ly-box11 {
-	width: 30%;
+	width: 80%;
 	height: 600px;
 	border: 2px #CCC;
 	background-color: #fff;
@@ -838,7 +838,7 @@
 /*文本*/
 .ly-txt21 {
 	font-family: Microsoft YaHei;
-	font-size: 30px;
+	font-size: 20px;
 	text-shadow: 1px;
 	font-color: #000;
 	position: absolute;
@@ -856,7 +856,7 @@
 
 .ly-txt22 {
 	font-family: Microsoft YaHei;
-	font-size: 20px;
+	font-size: 10px;
 	text-indent:2em;
 	font-color: #000;
 	position: absolute;
