@@ -646,7 +646,7 @@
 	font-color: #000;
 	position: absolute;
 	padding-top: 20px;
-	left: 5%;
+	left: 3%;
 	top: 12%;
 	opacity: 0;
 	transition: all 1s;
@@ -859,7 +859,7 @@
 	text-indent:2em;
 	font-color: #000;
 	position: absolute;
-	left: 5%;
+	left: 3%;
 	top: 8%;
 	opacity: 0;
 	transition: all 1s;
@@ -1195,7 +1195,7 @@
 	font-color: #000;
 	position: absolute;
 	padding-top: 20px;
-	left: 5%;
+	left: 3%;
 	top: 12%;
 	opacity: 0;
 	transition: all 1s;
@@ -1444,7 +1444,7 @@
 	top: 10%;
 	left: 23%;
 	width: 70%;
-	height: 30%;
+	height: 40%;
 	border-radius: 8px;
 	opacity:0;
 	overflow: hidden;
@@ -1461,7 +1461,7 @@
 }
 .ly-box71 {
 	width: 70%;
-	height: 50%;
+	height: 40%;
 	border: 2px #CCC;
 	background-color: #fff;
 	background-color: rgba(255,255,255,0.6);
