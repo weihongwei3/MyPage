@@ -1517,7 +1517,7 @@
 	border-radius: 8px;
 	position: absolute;
 	left: 23%;
-	top: 58%;
+	top: 55%;
 	overflow: hidden;
 	opacity: 0;
 	-webkit-transform: scale(0.5, 0.5);
@@ -1525,6 +1525,28 @@
 	transition: all 1s;
 }
 .active .ly-box72{
+	opacity: 0.9;
+	-webkit-transform: scale(1, 1);
+	transform: scale(1, 1);
+	transition-delay: 5s;
+}
+.buttonindex {
+	width: 11%;
+	height: 9%;
+	border: 2px #CCC;
+	background-color: #fff;
+	background-color: rgba(255,255,255,0.6);
+	border-radius: 8px;
+	position: absolute;
+	left: 23%;
+	top: 45%;
+	overflow: hidden;
+	opacity: 0;
+	-webkit-transform: scale(0.5, 0.5);
+	transform: scale(0.5, 0.5);
+	transition: all 1s;
+}
+.active .buttonindex{
 	opacity: 0.9;
 	-webkit-transform: scale(1, 1);
 	transform: scale(1, 1);
