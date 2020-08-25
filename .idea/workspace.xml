@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1343a07c-9663-497e-a6c5-1a4c0b880503" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/daidai/css/birthday-cake.css" afterPath="$PROJECT_DIR$/daidai/css/birthday-cake.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/daidai/css/memories.css" afterPath="$PROJECT_DIR$/daidai/css/memories.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/daidai/happybirthday.html" afterPath="$PROJECT_DIR$/daidai/happybirthday.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/daidai/html/Memories.html" afterPath="$PROJECT_DIR$/daidai/html/Memories.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -96,13 +93,13 @@
       <file leaf-file-name="happybirthday.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/daidai/happybirthday.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="40" column="53" lean-forward="true" selection-start-line="40" selection-start-column="53" selection-end-line="40" selection-end-column="53" />
+            <state relative-caret-position="486">
+              <caret line="42" column="24" lean-forward="true" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#1701#1707#0" expanded="true" />
-                <element signature="e#1707#1713#0" expanded="true" />
-                <element signature="e#1713#1719#0" expanded="true" />
+                <element signature="e#1753#1759#0" expanded="true" />
+                <element signature="e#1759#1765#0" expanded="true" />
+                <element signature="e#1765#1771#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -187,8 +184,8 @@
         <option value="$PROJECT_DIR$/daidai/html/BirthdayCake.html" />
         <option value="$PROJECT_DIR$/daidai/css/birthday-cake.css" />
         <option value="$PROJECT_DIR$/daidai/css/memories.css" />
-        <option value="$PROJECT_DIR$/daidai/happybirthday.html" />
         <option value="$PROJECT_DIR$/daidai/html/Memories.html" />
+        <option value="$PROJECT_DIR$/daidai/happybirthday.html" />
       </list>
     </option>
   </component>
@@ -861,7 +858,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598328652151</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="qixi">
+      <created>1598329234659</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1598329234659</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1287,13 +1291,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/daidai/happybirthday.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="40" column="53" lean-forward="true" selection-start-line="40" selection-start-column="53" selection-end-line="40" selection-end-column="53" />
+        <state relative-caret-position="486">
+          <caret line="42" column="24" lean-forward="true" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#1701#1707#0" expanded="true" />
-            <element signature="e#1707#1713#0" expanded="true" />
-            <element signature="e#1713#1719#0" expanded="true" />
+            <element signature="e#1753#1759#0" expanded="true" />
+            <element signature="e#1759#1765#0" expanded="true" />
+            <element signature="e#1765#1771#0" expanded="true" />
           </folding>
         </state>
       </provider>
