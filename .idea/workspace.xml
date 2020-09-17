@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="1343a07c-9663-497e-a6c5-1a4c0b880503" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/daidai/happybirthday.html" afterPath="$PROJECT_DIR$/daidai/happybirthday.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/daidai/happybirthday.html" afterPath="$PROJECT_DIR$/daidai/qixi.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/daidai/index.html" afterPath="$PROJECT_DIR$/daidai/happybirthday.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -43,7 +44,7 @@
       <file leaf-file-name="memories.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/daidai/css/memories.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-297">
+            <state relative-caret-position="39987">
               <caret line="1481" column="21" lean-forward="false" selection-start-line="1481" selection-start-column="21" selection-end-line="1481" selection-end-column="21" />
               <folding />
             </state>
@@ -70,8 +71,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/daidai/index.html">
+      <file leaf-file-name="happybirthday.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/daidai/happybirthday.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="378">
               <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
@@ -80,16 +81,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="happybirthday.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/daidai/happybirthday.html">
+      <file leaf-file-name="qixi.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/daidai/qixi.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="43" column="24" lean-forward="true" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
+            <state relative-caret-position="1296">
+              <caret line="48" column="11" lean-forward="false" selection-start-line="48" selection-start-column="11" selection-end-line="48" selection-end-column="11" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#1774#1780#0" expanded="true" />
-                <element signature="e#1780#1786#0" expanded="true" />
-                <element signature="e#1786#1792#0" expanded="true" />
+                <element signature="e#1782#1788#0" expanded="true" />
+                <element signature="e#1788#1794#0" expanded="true" />
+                <element signature="e#1794#1800#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -186,6 +187,7 @@
         <option value="$PROJECT_DIR$/daidai/html/Memories.html" />
         <option value="$PROJECT_DIR$/daidai/css/memories.css" />
         <option value="$PROJECT_DIR$/daidai/happybirthday.html" />
+        <option value="$PROJECT_DIR$/daidai/qixi.html" />
       </list>
     </option>
   </component>
@@ -216,7 +218,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -300,6 +301,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
@@ -521,13 +523,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555247939057</updated>
-    </task>
-    <task id="LOCAL-00008" summary="add dai">
-      <created>1595993502134</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1595993502134</updated>
     </task>
     <task id="LOCAL-00009" summary="add domain name">
       <created>1595994401817</created>
@@ -865,12 +860,18 @@
       <option name="project" value="LOCAL" />
       <updated>1598593242304</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="bye">
+      <created>1599534250856</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1599534250857</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -879,7 +880,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13621795" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13942307" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -1221,14 +1222,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/daidai/html/audio.html" />
-    <entry file="file://$PROJECT_DIR$/daidai/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/daidai/js/login.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
@@ -1284,7 +1277,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/daidai/css/memories.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-297">
+        <state relative-caret-position="39987">
           <caret line="1481" column="21" lean-forward="false" selection-start-line="1481" selection-start-column="21" selection-end-line="1481" selection-end-column="21" />
           <folding />
         </state>
@@ -1292,13 +1285,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/daidai/happybirthday.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="43" column="24" lean-forward="true" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
+        <state relative-caret-position="378">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daidai/qixi.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1296">
+          <caret line="48" column="11" lean-forward="false" selection-start-line="48" selection-start-column="11" selection-end-line="48" selection-end-column="11" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#1774#1780#0" expanded="true" />
-            <element signature="e#1780#1786#0" expanded="true" />
-            <element signature="e#1786#1792#0" expanded="true" />
+            <element signature="e#1782#1788#0" expanded="true" />
+            <element signature="e#1788#1794#0" expanded="true" />
+            <element signature="e#1794#1800#0" expanded="true" />
           </folding>
         </state>
       </provider>
