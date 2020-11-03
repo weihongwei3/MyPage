@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1343a07c-9663-497e-a6c5-1a4c0b880503" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daidai/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/daidai/happybirthday.html" afterPath="$PROJECT_DIR$/daidai/happybirthday.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/daidai/qixi.html" afterPath="$PROJECT_DIR$/daidai/qixi.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -100,8 +97,8 @@
       <file leaf-file-name="Memories.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bogui/html/Memories.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="44" column="0" lean-forward="true" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+            <state relative-caret-position="405">
+              <caret line="45" column="16" lean-forward="true" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -519,13 +516,6 @@
       <option name="presentableId" value="Default" />
       <updated>1555247939057</updated>
     </task>
-    <task id="LOCAL-00010" summary="delete domain name">
-      <created>1595994753873</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1595994753873</updated>
-    </task>
     <task id="LOCAL-00011" summary="add domain name in dai">
       <created>1595994831999</created>
       <option name="number" value="00011" />
@@ -862,7 +852,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600334802691</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="bogui">
+      <created>1604395885318</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1604395885319</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -922,7 +919,8 @@
     <MESSAGE value="mobile device audio" />
     <MESSAGE value="qixi" />
     <MESSAGE value="bye" />
-    <option name="LAST_COMMIT_MESSAGE" value="bye" />
+    <MESSAGE value="bogui" />
+    <option name="LAST_COMMIT_MESSAGE" value="bogui" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1194,6 +1192,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1279,8 +1278,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bogui/html/Memories.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="44" column="0" lean-forward="true" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+        <state relative-caret-position="405">
+          <caret line="45" column="16" lean-forward="true" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
           <folding />
         </state>
       </provider>
