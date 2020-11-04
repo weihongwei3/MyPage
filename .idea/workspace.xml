@@ -68,7 +68,7 @@
       <file leaf-file-name="Memories.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bogui/html/Memories.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
+            <state relative-caret-position="243">
               <caret line="325" column="41" lean-forward="false" selection-start-line="325" selection-start-column="41" selection-end-line="325" selection-end-column="41" />
               <folding>
                 <element signature="e#13383#13389#0" expanded="true" />
@@ -523,13 +523,6 @@
       <option name="presentableId" value="Default" />
       <updated>1555247939057</updated>
     </task>
-    <task id="LOCAL-00029" summary="mobile device UI">
-      <created>1596012063788</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1596012063788</updated>
-    </task>
     <task id="LOCAL-00030" summary="mobile device UI">
       <created>1596012925151</created>
       <option name="number" value="00030" />
@@ -866,7 +859,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604487609314</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="bogui">
+      <created>1604488681692</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1604488681692</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1285,7 +1285,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bogui/html/Memories.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
+        <state relative-caret-position="243">
           <caret line="325" column="41" lean-forward="false" selection-start-line="325" selection-start-column="41" selection-end-line="325" selection-end-column="41" />
           <folding>
             <element signature="e#13383#13389#0" expanded="true" />
