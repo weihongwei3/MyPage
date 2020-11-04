@@ -68,8 +68,8 @@
       <file leaf-file-name="Memories.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bogui/html/Memories.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="325" column="59" lean-forward="false" selection-start-line="325" selection-start-column="59" selection-end-line="325" selection-end-column="59" />
+            <state relative-caret-position="297">
+              <caret line="390" column="0" lean-forward="true" selection-start-line="390" selection-start-column="0" selection-end-line="390" selection-end-column="0" />
               <folding>
                 <element signature="e#13373#13379#0" expanded="true" />
               </folding>
@@ -523,13 +523,6 @@
       <option name="presentableId" value="Default" />
       <updated>1555247939057</updated>
     </task>
-    <task id="LOCAL-00031" summary="mobile device UI">
-      <created>1596013420673</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1596013420673</updated>
-    </task>
     <task id="LOCAL-00032" summary="mobile device UI">
       <created>1596014950830</created>
       <option name="number" value="00032" />
@@ -866,7 +859,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604495649700</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="bogui">
+      <created>1604496836567</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1604496836567</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1285,8 +1285,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bogui/html/Memories.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="325" column="59" lean-forward="false" selection-start-line="325" selection-start-column="59" selection-end-line="325" selection-end-column="59" />
+        <state relative-caret-position="297">
+          <caret line="390" column="0" lean-forward="true" selection-start-line="390" selection-start-column="0" selection-end-line="390" selection-end-column="0" />
           <folding>
             <element signature="e#13373#13379#0" expanded="true" />
           </folding>
