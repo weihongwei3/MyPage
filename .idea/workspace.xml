@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1343a07c-9663-497e-a6c5-1a4c0b880503" name="Default" comment="">
+    <list default="true" id="1343a07c-9663-497e-a6c5-1a4c0b880503" name="Default" comment="bogui">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bogui/html/Memories.html" afterPath="$PROJECT_DIR$/bogui/html/Memories.html" />
     </list>
@@ -88,8 +88,8 @@
       <file leaf-file-name="Memories.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bogui/html/Memories.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="509">
-              <caret line="327" column="19" lean-forward="true" selection-start-line="327" selection-start-column="19" selection-end-line="327" selection-end-column="19" />
+            <state relative-caret-position="131">
+              <caret line="316" column="23" lean-forward="false" selection-start-line="316" selection-start-column="23" selection-end-line="316" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -516,13 +516,6 @@
       <option name="presentableId" value="Default" />
       <updated>1555247939057</updated>
     </task>
-    <task id="LOCAL-00021" summary="mobile device UI">
-      <created>1596006603336</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1596006603336</updated>
-    </task>
     <task id="LOCAL-00022" summary="mobile device UI">
       <created>1596006986341</created>
       <option name="number" value="00022" />
@@ -859,7 +852,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604458264205</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="bogui">
+      <created>1604458859720</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1604458859720</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1276,8 +1276,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bogui/html/Memories.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="509">
-          <caret line="327" column="19" lean-forward="true" selection-start-line="327" selection-start-column="19" selection-end-line="327" selection-end-column="19" />
+        <state relative-caret-position="131">
+          <caret line="316" column="23" lean-forward="false" selection-start-line="316" selection-start-column="23" selection-end-line="316" selection-end-column="23" />
           <folding />
         </state>
       </provider>
