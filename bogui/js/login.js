@@ -2,7 +2,7 @@ $('#login-button').click(function (event) {
 	var userName=document.getElementById("userName").value;
     var pwd=document.getElementById("pwd").value;
 		//修改密码请改此处
-    if(userName=="bogui" &&  pwd=="loveyou"){
+    if(userName=="bogui" &&  pwd=="baobei"){
 			event.preventDefault();
 			$('form').fadeOut(500);
 			$('.wrapper').addClass('form-success');
@@ -12,7 +12,7 @@ $('#login-button').click(function (event) {
 			},2000);
 		}
 	else{
-		alert("爱的密码错误了嗷");
+		alert("爱的密码错误了喔");
 	}
 });
 
